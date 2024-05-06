@@ -1,0 +1,118 @@
+
+/* ////////////?colors//////////////////// */
+
+:root{
+    --origin-blck: #000000;
+    --main-black:#1a1a1a;
+    --main-orange:#ff5f00;
+    --main-gray:#ebebf0;
+    --second-gray:#f4f4f9;
+    --third-gray:#828287;
+    --main-white:#ffffff;  
+}
+
+/* ////////////?fonts//////////////////// */
+
+@import url('https://fonts.googleapis.com/css2?family=Helvetica+Now:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap');
+
+/*  heading font variables */
+:root {
+  --heading-font-helveticanow: 'Helvetica Now', sans-serif;
+  --heading-font-roboto-condensed: 'Roboto Condensed', sans-serif;
+}
+/* main font for body  */
+body {
+    font-family: 'Times New Roman', Times, serif; 
+  }
+
+
+
+/* //////////////////////////!headings //////////////////////*/
+
+/* ////?header:RENT FIRST CLASS PAY ECONOMY. */
+
+.rent-head{
+    font-family: var(--heading-font-helveticanow);
+    color: var(--main-black);
+    font-size: 72px;
+    line-height: 72px;
+    text-align: center;
+}
+
+.rent-subhead{
+    font-family: var(--heading-font-helveticanow);
+    color: var(--main-black);
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+
+/*//////////?/header : more sixt */
+
+.moreSixt-header {
+    font-family: var(--heading-font-helveticanow);
+    color: var(--main-black);
+    font-size: 60px;
+    line-height: 60px;
+    text-align: center;
+}
+
+
+.moreSixt-subheader{
+
+    font-family: var(--heading-font-helveticanow);
+    color: var(--main-white);
+    font-size: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
